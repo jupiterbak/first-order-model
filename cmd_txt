@@ -1,0 +1,2 @@
+python demo.py  --config config/vox-adv-256.yaml --driving_video sources/videos/tagesschau-clipped_short.mp4 --source_image sources/images/FRANKE_SHORT.jpg --checkpoint model/vox-adv-cpk.pth.tar --result_video export/v
+ideos/TAGESCHAU_TO_FRANKE_SHORT_Clipped.mp4 --relative --adapt_scale
