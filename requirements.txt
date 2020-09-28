@@ -25,4 +25,4 @@ toolz
 torch
 torchvision
 tqdm
-imageio_ffmpeg
+imageio-ffmpeg

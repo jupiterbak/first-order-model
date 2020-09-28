@@ -5,4 +5,10 @@
     <orderEntry type="jdk" jdkName="Python 3.6 (TORCH)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+>>>>>>> 1bbda44f3882f2d4eb238200724b5658ce86d26a
 </module>
